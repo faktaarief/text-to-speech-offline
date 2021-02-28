@@ -1,6 +1,6 @@
 {
   "name": "text-to-speech-offline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Text to Speech Offline Using API Browser",
   "main": "dist/index.js",
   "scripts": {
