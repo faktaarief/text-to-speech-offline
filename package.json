@@ -1,0 +1,21 @@
+{
+  "name": "text-to-speech-offline",
+  "version": "1.0.0",
+  "description": "Simple Text to Speech Offline Using API Browser",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faktaarief/text-to-speech-offline.git"
+  },
+  "keywords": [
+    "text-to-speech",
+    "speech",
+    "offline",
+    "tts"
+  ],
+  "author": "Fakta Arief",
+  "license": "ISC"
+}
