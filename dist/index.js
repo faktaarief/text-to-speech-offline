@@ -8,8 +8,9 @@ const TTS = (text, lang = 'id-ID', volume = 1, rate = 1, pitch = 1) => {
     utterance.pitch = pitch
     utterance.volume = volume
     synthesis.cancel()
-    synthesis.speak(utterance)
+    
+    return synthesis.speak(utterance)
 
 }
 
-export default TTS
+module.exports = TTS

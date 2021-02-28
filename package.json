@@ -17,5 +17,12 @@
     "tts"
   ],
   "author": "Fakta Arief",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faktaarief/text-to-speech-offline/issues"
+  },
+  "homepage": "https://github.com/faktaarief/text-to-speech-offline#readme",
+  "directories": {
+    "example": "example"
+  }
 }

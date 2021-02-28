@@ -38,5 +38,5 @@ Basic usage with default configuration:
 ```jsx
 import TTS from 'text-to-speech-offline'
 
-<button onClick={TTS("Apa kabar?")}> Speak </button>
+<button onClick={() => TTS("Apa kabar?")}> Speak </button>
 ```
